@@ -18,4 +18,9 @@
    <p>CSS Grids are really interesting , Enjoying it</p>
    ##links:https://twitter.com/jodifungula/status/1060489284124401666
 
-
+ <h2>Day 16</h2>
+   --Today I studied some Javascript statements and tackled FCC CSS accessability
+   <h3>Notes</h3>
+   <p>Javascript uses if statements to check certain conditions</p>
+   <p>header tags are great for accessibility , and more semantic </p>
+   ##links:https://twitter.com/jodifungula/status/1060877711701393409
