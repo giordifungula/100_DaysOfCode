@@ -24,3 +24,10 @@
    <p>Javascript uses if statements to check certain conditions</p>
    <p>header tags are great for accessibility , and more semantic </p>
    ##links:https://twitter.com/jodifungula/status/1060877711701393409
+
+<h2>Day 18</h2>
+   --Today I studied some Javascript classes and objects
+   <h3>Notes</h3>
+   <p>Classes serve as a base for other objects or related objects</p>
+   <p>Other note was to use Let because it is block scoped and not global like var </p>
+   ##links:https://twitter.com/jodifungula/status/1061305675064770562
