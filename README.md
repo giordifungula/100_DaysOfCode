@@ -31,3 +31,10 @@
    <p>Classes serve as a base for other objects or related objects</p>
    <p>Other note was to use Let because it is block scoped and not global like var </p>
    ##links:https://twitter.com/jodifungula/status/1061305675064770562
+   
+   <h2>Day 19</h2>
+   --Today I studied some Javascript arrow functions
+   <h3>Notes</h3>
+   <p>Arrow functions are a shorter and a more concise way of writing functions</p>
+   <p>They prepare you to write modern JS code </p>
+   ##links:https://twitter.com/jodifungula/status/1061624518026895360
