@@ -38,3 +38,10 @@
    <p>Arrow functions are a shorter and a more concise way of writing functions</p>
    <p>They prepare you to write modern JS code </p>
    ##links:https://twitter.com/jodifungula/status/1061624518026895360
+   
+   <h2>Day 20</h2>
+   --Today I studied some Javascript closures
+   <h3>Notes</h3>
+   <p>If you have made a function then you have work with closures , you may or may not understand it fully but its okay</p>
+   <p>I also practised some CSS positioning </p>
+   ##links:https://twitter.com/jodifungula/status/1062051029095727105
