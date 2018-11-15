@@ -45,3 +45,26 @@
    <p>If you have made a function then you have work with closures , you may or may not understand it fully but its okay</p>
    <p>I also practised some CSS positioning </p>
    ##links:https://twitter.com/jodifungula/status/1062051029095727105
+   
+   <h2>Day 21</h2>
+   --Today I was working on CSS challenge
+   <h3>Notes</h3>
+   <p>I used basic CSS skills</p>
+   <p></p>
+   ##links:https://twitter.com/jodifungula/status/1062455639509778432
+   
+   <h2>Day 22</h2>
+   --Today 
+   <h3>Notes</h3>
+   <p>Continued to work on blog today also</p>
+   <p></p>
+   ##links:https://twitter.com/jodifungula/status/1062748253756755970
+   
+   <h2>Day 23</h2>
+   --Today 
+   <h3>I looked over classes again in JS</h3>
+   <p>Classes allow you to inherit and make other objects with different things attached to it</p>
+   <p></p>
+   ##links:https://twitter.com/jodifungula/status/1062748253756755970
+   
+   
