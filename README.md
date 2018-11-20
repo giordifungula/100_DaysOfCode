@@ -66,8 +66,8 @@
    <p>Classes allow you to inherit and make other objects with different things attached to it</p>
    <p></p>
    ##links:https://twitter.com/jodifungula/status/1062748253756755970
-   
-    <h2>Day 24</h2>
+  
+   <h2>Day 24</h2>  
    --Today 
    <h3>I worked on FCC Responsive Design Challenge</h3>
    <p>positioning can help you display content is different ways or positions</p>
