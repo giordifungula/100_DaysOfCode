@@ -67,4 +67,38 @@
    <p></p>
    ##links:https://twitter.com/jodifungula/status/1062748253756755970
    
+    <h2>Day 24</h2>
+   --Today 
+   <h3>I worked on FCC Responsive Design Challenge</h3>
+   <p>positioning can help you display content is different ways or positions</p>
+   <p></p>
+   ##links:https://twitter.com/jodifungula/status/1063725466060759041
+   
+   <h2>Day 25</h2>
+   --Today 
+   <h3>I followed in introductory React Course</h3>
+   <p>React is a JS, library and its light weight</p>
+   <p>React is ES6 Dependent so, one has to be familar with the new js syntax</p>
+   ##links:https://twitter.com/jodifungula/status/1064162948615147520
+   
+   <h2>Day 26</h2>
+   --Today 
+   <h3>I began working on school project for code4ct</h3>
+   <p>we will be rebuilding their site</p>
+   <p>using a different and newer design</p>
+   ##links:https://twitter.com/jodifungula/status/1064163738692067328
+   
+   <h2>Day 27</h2>
+   --Today 
+   <h3>Continued to work on the School Project</h3>
+   <p>Sass will help in spliting the different styles together</p>
+   <p></p>
+   ##links:https://twitter.com/jodifungula/status/1064545125777514496
+   
+   
+   
+   
+   
+   
+   
    
